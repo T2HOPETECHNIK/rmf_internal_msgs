@@ -48,6 +48,7 @@ set(msg_files
   "msg/DeliveryAlertTier.msg"
   "msg/EmergencySignal.msg"
   "msg/SwisslogRenalArea.msg"
+  "msg/DiversionInProgress.msg"
 )
 
 set(srv_files

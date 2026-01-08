@@ -1,0 +1,2 @@
+string robot_name
+bool in_progress
