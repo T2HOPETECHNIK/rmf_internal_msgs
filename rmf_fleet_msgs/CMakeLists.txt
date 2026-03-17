@@ -47,6 +47,7 @@ set(msg_files
   "msg/DeliveryAlertCategory.msg"
   "msg/DeliveryAlertTier.msg"
   "msg/EmergencySignal.msg"
+  "msg/SwisslogLiftsArea.msg"
   "msg/SwisslogRenalArea.msg"
 )
 
