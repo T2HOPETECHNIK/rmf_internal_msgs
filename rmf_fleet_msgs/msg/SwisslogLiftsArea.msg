@@ -1,0 +1,1 @@
+bool is_lift_3_area
