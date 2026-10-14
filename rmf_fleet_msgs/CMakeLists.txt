@@ -49,6 +49,7 @@ set(msg_files
   "msg/EmergencySignal.msg"
   "msg/SwisslogLiftsArea.msg"
   "msg/SwisslogRenalArea.msg"
+  "msg/BlankiState.msg"
 )
 
 set(srv_files
